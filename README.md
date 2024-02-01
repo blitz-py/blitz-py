@@ -9,4 +9,4 @@
 
 ---
 
-⭐️ you know [@blitz-py](https://github.com/blitz-py)
+[@blitz-py](https://github.com/blitz-py) ⭐️
